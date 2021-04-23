@@ -2,7 +2,7 @@
 
 This is my Books Store
 
-visit my website from here : https://jugantarm.github.io/jugantars-creation-home/
+visit my website from here : https://jugantarm.github.io/Jugantars-Creation-Books/
 
 ◆ FOR MORE UPDATES ◆
 
